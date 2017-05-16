@@ -1,0 +1,7 @@
+class new
+ +{ public static void main(String s[])
+ +{ int a=2,b=4,c=3;
+ + System.out.println("Addition is"+ a+b+c);
+ + System.out.println("Addition is"+ a*b*c);
+ + }
+ + }
