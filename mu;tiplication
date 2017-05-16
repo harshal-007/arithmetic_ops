@@ -1,0 +1,6 @@
+class multiplication
+ +{ public static void main(String s[])
+ +{ int a=2,b=4;
+ + System.out.println("multiplication is"+ a*b);
+ + }
+ + }
