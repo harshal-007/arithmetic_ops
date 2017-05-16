@@ -1,0 +1,6 @@
+class addition
+{ public static void main(String s[])
+{ int a=2,b=4;
+ System.out.println("Addition is"+ a+b);
+ }
+ }
